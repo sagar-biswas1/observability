@@ -16,3 +16,7 @@
 ### Graphana lab
 https://grafana.com/grafana/dashboards/1860-node-exporter-full/
 
+### Custome chart queries
+
+https://www.youtube.com/watch?v=ddZjhv66o_o
+
