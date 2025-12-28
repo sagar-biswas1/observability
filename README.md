@@ -13,3 +13,6 @@
  
 	wget https://raw.githubusercontent.com/grafana/loki/v2.8.0/clients/cmd/promtail/promtail-docker-config.yaml -O promtail-config.yaml
 
+### Graphana lab
+https://grafana.com/grafana/dashboards/1860-node-exporter-full/
+
